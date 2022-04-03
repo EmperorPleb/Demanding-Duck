@@ -1,0 +1,3 @@
+regi,C:\Windows\regedit.exe
+anki,C:\Program Files\Anki\anki.exe
+notepad,C:\Windows\notepad.exe
